@@ -40,3 +40,10 @@ fdist = freqDist(text1)
 - `fdist.most_common`: helps to find most common words in the given text
 - `hapaxes`: gives single occuring words
 - `collactions`: sequence of words that occurs together often
+
+## Tokens and word types
+
+`tokens` : text
+`count of tokens`: len(text)
+`word type`: set(text)
+`count of word type`: len(set(text))
